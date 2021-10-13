@@ -1,0 +1,17 @@
+{
+    "short_name": "HDFC APP",
+    "name": "OTP",
+    "icons": [
+        {
+            "src": "./images/logo.png",
+            "type": "image/png",
+            "sizes": "2024x2024",
+            "purpose":"any maskable"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "prefer_related_applications": true
+}
